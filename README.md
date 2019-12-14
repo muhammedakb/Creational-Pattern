@@ -40,7 +40,7 @@ Ardından, EmployeeRecord nesnesinin klonlamasını yapan Prototip arabirimini u
 PrototypeDemo sınıfı , bu EmployeeRecord sınıfını kullanacaktır .
 
 
-- PROTOTİP TASARIM ÖRNEĞİ
+- PROTOTİP TASARIM ÖRNEĞİ KOD(JAVA)
 
 Dosya: Prototype.java
 
