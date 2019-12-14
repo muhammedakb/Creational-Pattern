@@ -11,24 +11,24 @@ Yeni bir nesne yaratmanın maliyeti pahalı ve kaynak yoğunsa, bu şablon izlen
 - Prototip desen avantajı
 
 Prototip modelinin ana avantajları aşağıdaki gibidir:
-- Alt sınıflama ihtiyacını azaltır.
-- Nesne yaratmanın karmaşıklığını gizler.
-- İstemciler, ne tür bir nesne olacağını bilmeden yeni nesneler alabilirler.
-- Çalışma zamanında nesneleri eklemenizi veya silmenizi sağlar.
+-Alt sınıflama ihtiyacını azaltır.
+-Nesne yaratmanın karmaşıklığını gizler.
+-İstemciler, ne tür bir nesne olacağını bilmeden yeni nesneler alabilirler.
+-Çalışma zamanında nesneleri eklemenizi veya silmenizi sağlar.
 
-- Prototip Deseninin Kullanımı:
-- Çalışma zamanında sınıflar başlatıldığında.
-- Bir nesne yaratmanın maliyeti pahalı veya karmaşık olduğunda.
-- Bir uygulamadaki sınıf sayısını minimumda tutmak istediğinizde.
-- İstemci uygulamasının, nesne oluşturma ve temsil etmekten habersiz olması gerektiğinde.
+Prototip Deseninin Kullanımı:
+-Çalışma zamanında sınıflar başlatıldığında.
+-Bir nesne yaratmanın maliyeti pahalı veya karmaşık olduğunda.
+-Bir uygulamadaki sınıf sayısını minimumda tutmak istediğinizde.
+-İstemci uygulamasının, nesne oluşturma ve temsil etmekten habersiz olması gerektiğinde.
 
 - Prototip Desen için UML
 
 ![uml](https://www.javatpoint.com/images/designpattern/prototype.jpg)
 
-- Protorip bir arayüz oluşturmak için getClone () metodlu Prototip tipini oluşturduk.
-- Ardından, EmployeeRecord nesnesinin klonlamasını yapan Prototip arabirimini uygulayan somut bir EmployeeRecord sınıfı oluşturuyoruz .
-- PrototypeDemo sınıfı , bu EmployeeRecord sınıfını kullanacaktır .
+Protorip bir arayüz oluşturmak için getClone () metodlu Prototip tipini oluşturduk.
+Ardından, EmployeeRecord nesnesinin klonlamasını yapan Prototip arabirimini uygulayan somut bir EmployeeRecord sınıfı oluşturuyoruz .
+PrototypeDemo sınıfı , bu EmployeeRecord sınıfını kullanacaktır .
 
 - Prototip Tasarım Örneği
 
