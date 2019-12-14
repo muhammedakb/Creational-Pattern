@@ -31,13 +31,14 @@ Prototip modelinin ana avantajları aşağıdaki gibidir:
 -İstemci uygulamasının, nesne oluşturma ve temsil etmekten habersiz olması gerektiğinde.
 
 
-- Prototip Desen için UML
+- PROTOTİP DESEN İÇİN UML
 
 ![uml](https://www.javatpoint.com/images/designpattern/prototype.jpg)
 
 Protorip bir arayüz oluşturmak için getClone () metodlu Prototip tipini oluşturduk.
 Ardından, EmployeeRecord nesnesinin klonlamasını yapan Prototip arabirimini uygulayan somut bir EmployeeRecord sınıfı oluşturuyoruz .
 PrototypeDemo sınıfı , bu EmployeeRecord sınıfını kullanacaktır .
+
 
 - Prototip Tasarım Örneği
 
