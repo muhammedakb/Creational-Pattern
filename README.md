@@ -2,13 +2,13 @@
 
 CREATİONAL PATTERN
 
-PROTOTİP TASARIM DESENİ
+- PROTOTİP TASARIM DESENİ
 
 Prototip Desen, yeni bir nesne oluşturmak yerine mevcut bir nesnenin klonlanmasının ve gereksinime göre özelleştirilebileceğini söylüyor .
 
 Yeni bir nesne yaratmanın maliyeti pahalı ve kaynak yoğunsa, bu şablon izlenmelidir.
 
-Prototip desen avantajı
+- Prototip desen avantajı
 
 Prototip modelinin ana avantajları aşağıdaki gibidir:
 - Alt sınıflama ihtiyacını azaltır.
@@ -16,13 +16,13 @@ Prototip modelinin ana avantajları aşağıdaki gibidir:
 - İstemciler, ne tür bir nesne olacağını bilmeden yeni nesneler alabilirler.
 - Çalışma zamanında nesneleri eklemenizi veya silmenizi sağlar.
 
-Prototip Deseninin Kullanımı
+- Prototip Deseninin Kullanımı:
 - Çalışma zamanında sınıflar başlatıldığında.
 - Bir nesne yaratmanın maliyeti pahalı veya karmaşık olduğunda.
 - Bir uygulamadaki sınıf sayısını minimumda tutmak istediğinizde.
 - İstemci uygulamasının, nesne oluşturma ve temsil etmekten habersiz olması gerektiğinde.
 
-Prototip Desen için UML
+- Prototip Desen için UML
 
 ![uml](https://www.javatpoint.com/images/designpattern/prototype.jpg)
 
@@ -30,7 +30,7 @@ Prototip Desen için UML
 - Ardından, EmployeeRecord nesnesinin klonlamasını yapan Prototip arabirimini uygulayan somut bir EmployeeRecord sınıfı oluşturuyoruz .
 - PrototypeDemo sınıfı , bu EmployeeRecord sınıfını kullanacaktır .
 
-Prototip Tasarım Örneği
+- Prototip Tasarım Örneği
 
 Dosya: Prototype.java
 
@@ -118,11 +118,6 @@ Dosya: PrototypeDemo.java
         e2.showRecord();  
     }     
     }//ProtoypeDemo sınıfının sonu.
-
-
-ÇIKTI
-
---ss.jpg
 
 
 
