@@ -8,19 +8,28 @@ Prototip Desen, yeni bir nesne oluşturmak yerine mevcut bir nesnenin klonlanmas
 
 Yeni bir nesne yaratmanın maliyeti pahalı ve kaynak yoğunsa, bu şablon izlenmelidir.
 
-- Prototip desen avantajı
+- PROTOTİP DESEN AVANTAJI
 
 Prototip modelinin ana avantajları aşağıdaki gibidir:
+
 -Alt sınıflama ihtiyacını azaltır.
+
 -Nesne yaratmanın karmaşıklığını gizler.
+
 -İstemciler, ne tür bir nesne olacağını bilmeden yeni nesneler alabilirler.
+
 -Çalışma zamanında nesneleri eklemenizi veya silmenizi sağlar.
 
-Prototip Deseninin Kullanımı:
+- PROTOTİP DESENİN KULLANIMI
+
 -Çalışma zamanında sınıflar başlatıldığında.
+
 -Bir nesne yaratmanın maliyeti pahalı veya karmaşık olduğunda.
+
 -Bir uygulamadaki sınıf sayısını minimumda tutmak istediğinizde.
+
 -İstemci uygulamasının, nesne oluşturma ve temsil etmekten habersiz olması gerektiğinde.
+
 
 - Prototip Desen için UML
 
